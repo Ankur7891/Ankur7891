@@ -6,11 +6,11 @@ I'm a passionate Software Developer from India with expertise in a wide range of
 - LinkedIn
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, Java, C/C++, JavaScript (ES6+), HTML, CSS, PHP, SQL
-- **Frameworks/Technologies**: React.js, Node.js, MongoDB, Flask, TensorFlow, Tailwind CSS
-- **Tools**: Git/GitHub, Visual Studio Code, Figma, Photoshop
+- **Languages**: Python, Java, C/C++, JavaScript/TypeScript (ES6+), HTML, CSS, PHP, SQL
+- **Frameworks/Technologies**: React.js, Node.js, Express.js, MongoDB, Flask, TensorFlow, Tailwind CSS
+- **Tools**: Git/GitHub, Visual Studio, Visual Studio Code, Figma, Photoshop
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur7891&layout=compact&theme=radical)
 
 ## 🔗 Links
 - [Codeforces Profile](https://codeforces.com/profile/ankur7891)
