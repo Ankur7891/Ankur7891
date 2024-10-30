@@ -3,14 +3,8 @@
 I'm a passionate Software Developer from India with expertise in a wide range of technologies, frameworks, and programming languages. With a strong focus on UI/UX design, web development, machine learning, and data science, I enjoy solving complex problems and delivering impactful solutions.
 
 ## Connect with Me:
-<p align="left">
-  <a href="mailto:ankurmajumdar7891@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ankur-majumdar-2618b524b/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+ - [Email](mailto:ankurmajumdar7891@gmail.com)
+ - [LinkedIn](https://www.linkedin.com/in/ankur-majumdar-2618b524b/)
 
 ## 🛠️ Languages & Tools
 <p align="left">
@@ -75,11 +69,5 @@ I'm a passionate Software Developer from India with expertise in a wide range of
 ![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankur7891&show_icons=true&theme=radical&count_private=true)
 
 ## 🔗 Links
-<p align="left">
-  <a href="https://codeforces.com/profile/ankur7891">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codeforces.png" alt="Codeforces" width="40" height="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/Ankur7891">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" alt="CodeChef" width="40" height="40"/>
-  </a>
-</p>
+- [Codeforces Profile](https://codeforces.com/profile/ankur7891)
+- [CodeChef Profile](https://www.codechef.com/users/Ankur7891)
