@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ankur Majumdar! 👋
 
-<!--
-**Ankur7891/Ankur7891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer from India with expertise in a wide range of technologies, frameworks, and programming languages. With a strong focus on UI/UX design, web development, machine learning, and data science, I enjoy solving complex problems and delivering impactful solutions.
 
-Here are some ideas to get you started:
+## Connect with Me:
+- LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Languages**: Python, Java, C/C++, JavaScript (ES6+), HTML, CSS, PHP, SQL
+- **Frameworks/Technologies**: React.js, Node.js, MongoDB, Flask, TensorFlow, Tailwind CSS
+- **Tools**: Git/GitHub, Visual Studio Code, Figma, Photoshop
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+## 🔗 Links
+- [Codeforces Profile](https://codeforces.com/profile/ankur7891)
+- [CodeChef Profile](https://www.codechef.com/users/Ankur7891)
