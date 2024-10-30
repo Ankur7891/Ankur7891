@@ -44,8 +44,8 @@ I'm a passionate Software Developer from India with expertise in a wide range of
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/8a/Node-RED_logo.svg" alt="Node-RED" width="40" height="40"/>
+  <a href="https://nodered.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/66803666/117859446-788b5880-b273-11eb-869f-0e4892c9e088.png" alt="Node-RED" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
@@ -60,7 +60,7 @@ I'm a passionate Software Developer from India with expertise in a wide range of
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/logo.svg" alt="tailwindcss" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
