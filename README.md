@@ -4,7 +4,7 @@
 - I have experience building **scalable systems, modern web applications, AI-driven solutions, and UI/UX designs** through internships, leadership roles, and projects. 
 - I enjoy working on challenging problems at the intersection of **systems, AI, and user-centric design** and I love turning ideas into real products.  
 
-## Connect with Me  
+## 🤝 Connect with Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurmajumdar7891@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankur7891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-majumdar-2618b524b/)
 
 
