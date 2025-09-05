@@ -1,6 +1,6 @@
 # Hi, I'm Ankur Majumdar! 👋
 
-I'm a **Software Developer** and a final-year B.Tech CSE (AI & Data Science) student at IIIT Kottayam with a CGPA of **9.90/10**.
+I'm a **Software Developer** and a final-year B.Tech CSE (with AI & Data Science) student at Indian Institute of Information Technology (IIIT) Kottayam.
 I have experience building **scalable systems, modern web applications, AI-driven solutions, and UI/UX designs** through internships, leadership roles, and projects. 
 I enjoy working on challenging problems at the intersection of **systems, AI, and user-centric design** and I love turning ideas into real products.  
 
@@ -56,29 +56,29 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
   <img src="https://skillicons.dev/icons?i=qt" title="Qt Framework"/>
 </p>
 
+## 📊 Statistics  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankur7891&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur7891&layout=compact&theme=tokyonight" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur7891&theme=tokyonight" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankur7891&theme=tokyonight&no-frame=true&margin-w=32" />
+</div>
+
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankur7891&show_icons=true&theme=radical&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur7891&layout=compact&theme=radical" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur7891&theme=radical" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankur7891&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
-
-## 🧩 DSA & Problem Solving    
+## 🧩 DSA & Problem Solving  
 
 - [LeetCode](https://leetcode.com/u/ankur7891/)  
 - [Codeforces](https://codeforces.com/profile/ankur7891)  
 - [CodeChef](https://www.codechef.com/users/Ankur7891)  
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ankur7891?theme=radical&font=Karma&ext=activity" />
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ankur7891?theme=tokyonight&font=Fira%20Code&ext=heatmap" height="250"/>
+</div>
