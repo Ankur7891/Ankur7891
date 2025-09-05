@@ -5,7 +5,7 @@ I have experience building **scalable systems, modern web applications, AI-drive
 I enjoy working on challenging problems at the intersection of **systems, AI, and user-centric design** and I love turning ideas into real products.  
 
 <p align="center">
-  💭 <em><strong>"It's NOT Over Until I WIN"</strong></em> 🚀
+  💭 <em><strong>It's NOT Over Until I WIN</strong></em> 🚀
 </p>
 
 ---
