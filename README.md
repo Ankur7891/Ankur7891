@@ -15,7 +15,14 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 
 ### Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=sql" title="SQL"/>
 </p>
 
 ### Frameworks & Libraries  
