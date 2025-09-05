@@ -13,23 +13,30 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 
 ## 💡 Technical Skills  
 
-### Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" title="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
+  <img src="https://skillicons.dev/icons?i=markdown" title="MarkDown"/>
 </p>
 
-### Frameworks & Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,flask" />
-  <img src="https://skillicons.dev/icons?i=fastapi,redux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" title="React.js"/>
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux Toolkit"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
 </p>
 
 ### Tools & Platforms  
