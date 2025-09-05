@@ -4,15 +4,11 @@ I'm a **Software Developer** and a final-year B.Tech CSE (AI & Data Science) stu
 I have experience building **scalable systems, modern web applications, AI-driven solutions, and UI/UX designs** through internships, leadership roles, and projects. 
 I enjoy working on challenging problems at the intersection of **systems, AI, and user-centric design** and I love turning ideas into real products.  
 
----
-
 ## 🤝 Connect with Me 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurmajumdar7891@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankur7891) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-majumdar-2618b524b/)
-
----
 
 ## 💡 Technical Skills  
 
@@ -21,7 +17,6 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=markdown" title="MarkDown"/>
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
@@ -43,7 +38,8 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 </p>
 
 <p align="center">
-  
+  <img src="https://skillicons.dev/icons?i=aiscript" title="LangChain | LLMs | Automation"/>
+  <img src="https://skillicons.dev/icons?i=markdown" title="MarkDown"/>
 </p>
 
 ---
