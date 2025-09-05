@@ -13,21 +13,23 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 ## 💡 Technical Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=markdown" title="MarkDown"/>
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=markdown" title="MarkDown"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=latex" title="LaTeX"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" title="React.js"/>
   <img src="https://skillicons.dev/icons?i=redux" title="Redux Toolkit"/>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite"/>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
   <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
@@ -36,10 +38,8 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=aiscript" title="AI Script"/>
   <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" height="48" title="LangChain"/>
-  <img src="https://avatars.githubusercontent.com/u/133401916?s=200&v=4" height="48" title="Pydantic AI"/>
+  <img src="https://skillicons.dev/icons?i=aiscript" title="LLMs | LangChain | Automation"/>
 </p>
 
 <p align="center">
@@ -47,9 +47,11 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform (GCP)"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" title="PhotoShop"/>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" title="Node-RED"/>
-  <img src="https://img.shields.io/badge/n8n-1F8A70?style=for-the-badge&logo=n8n&logoColor=white" title="N8N"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
   <img src="https://skillicons.dev/icons?i=cmake" title="CMake"/>
   <img src="https://skillicons.dev/icons?i=qt" title="Qt Framework"/>
 </p>
