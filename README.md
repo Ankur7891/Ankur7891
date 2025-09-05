@@ -68,15 +68,15 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankur7891&theme=tokyonight&margin-w=8&margin-h=8&column=4&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankur7891&theme=tokyonight&margin-w=4&margin-h=4&column=4&no-frame=true" />
 </div>
 
 
 ## 🧩 DSA & Problem Solving  
 
-- [LeetCode](https://leetcode.com/u/ankur7891/)  
-- [Codeforces](https://codeforces.com/profile/ankur7891)  
-- [CodeChef](https://www.codechef.com/users/Ankur7891)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ankur7891/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ankur7891)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Ankur7891)  
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Ankur7891?theme=dark&font=Baloo%20Da%202&ext=heatmap"/>
