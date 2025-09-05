@@ -10,7 +10,7 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankur7891) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-majumdar-2618b524b/)
 
-## 💡 Technical Skills  
+## 💡 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
