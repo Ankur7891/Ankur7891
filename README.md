@@ -17,6 +17,7 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=markdown" title="MarkDown"/>
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
@@ -31,15 +32,26 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
   <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
   <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=aiscript" title="AI Script"/>
   <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" height="48" title="LangChain"/>
+  <img src="https://avatars.githubusercontent.com/u/133401916?s=200&v=4" height="48" title="Pydantic AI"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aiscript" title="LangChain | LLMs | Automation"/>
-  <img src="https://skillicons.dev/icons?i=markdown" title="MarkDown"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" height="48" title="Node-RED"/>
+  <img src="https://n8n.io/favicon-32x32.png" height="48" title="N8N"/>
+  <img src="https://skillicons.dev/icons?i=cmake" title="CMake"/>
+  <img src="https://skillicons.dev/icons?i=qt" title="Qt Framework"/>
 </p>
 
 ---
