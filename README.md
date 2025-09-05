@@ -48,8 +48,8 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
-  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" height="48" title="Node-RED"/>
-  <img src="https://n8n.io/favicon-32x32.png" height="48" title="N8N"/>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" title="Node-RED"/>
+  <img src="https://img.shields.io/badge/n8n-1F8A70?style=for-the-badge&logo=n8n&logoColor=white" title="N8N"/>
   <img src="https://skillicons.dev/icons?i=cmake" title="CMake"/>
   <img src="https://skillicons.dev/icons?i=qt" title="Qt Framework"/>
 </p>
