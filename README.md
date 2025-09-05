@@ -11,6 +11,26 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 
 ---
 
+## 💡 Technical Skills  
+
+### Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,sql" />
+</p>
+
+### Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi,redux" />
+</p>
+
+### Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" />
+</p>
+
+---
+<!-- 
 ## 🛠️ Languages & Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> 
@@ -65,6 +85,7 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
+-->
 
 ## 📊 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur7891&layout=compact&theme=radical)
