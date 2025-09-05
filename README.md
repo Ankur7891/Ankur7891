@@ -68,7 +68,7 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankur7891&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankur7891&theme=tokyonight&margin-w=8&margin-h=8&column=4&no-frame=true" />
 </div>
 
 
@@ -79,6 +79,6 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 - [CodeChef](https://www.codechef.com/users/Ankur7891)  
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ankur7891?theme=tokyonight&font=Fira%20Code&ext=contest" height="360"/>
+  <img src="https://leetcard.jacoblin.cool/Ankur7891?theme=dark&font=Baloo%20Da%202&ext=heatmap"/>
 </div>
 
