@@ -12,7 +12,7 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 
 ## 📑 Resume & Contact
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1KmKwNRNPxEYddfmT8Dxy8TEb9COS3knF/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1KmKwNRNPxEYddfmT8Dxy8TEb9COS3knF/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurmajumdar7891@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankur7891) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-majumdar-2618b524b/)
