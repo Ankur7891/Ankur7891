@@ -14,15 +14,16 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 ## 💡 Technical Skills  
 
 ### Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=sql" title="SQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
 </p>
 
 ### Frameworks & Libraries  
