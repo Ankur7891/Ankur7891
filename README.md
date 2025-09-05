@@ -10,7 +10,7 @@ I enjoy working on challenging problems at the intersection of **systems, AI, an
 
 ---
 
-## 📑 Resume & Contact
+## 🌐 Resume & Contact
 
 [![Resume](https://img.shields.io/badge/Resume-2E8B57?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1KmKwNRNPxEYddfmT8Dxy8TEb9COS3knF/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurmajumdar7891@gmail.com) 
