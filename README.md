@@ -4,6 +4,12 @@ I'm a **Software Developer** and a final-year B.Tech CSE (with AI & Data Science
 I have experience building **scalable systems, modern web applications, AI-driven solutions, and UI/UX designs** through internships, leadership roles, and projects. 
 I enjoy working on challenging problems at the intersection of **systems, AI, and user-centric design** and I love turning ideas into real products.  
 
+<p align="center">
+  💭 <em><strong>"It's NOT Over Until I WIN"</strong></em> 🚀
+</p>
+
+---
+
 ## 🤝 Connect with Me 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurmajumdar7891@gmail.com) 
