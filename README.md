@@ -1,10 +1,14 @@
 # Hi, I'm Ankur Majumdar! 👋
 
-I'm a passionate Software Developer from India with expertise in a wide range of technologies, frameworks, and programming languages. With a strong focus on UI/UX design, web development, machine learning, and data science, I enjoy solving complex problems and delivering impactful solutions.
+I'm a **Software Developer** and a final-year B.Tech CSE (AI & Data Science) student at IIIT Kottayam with a CGPA of **9.90/10**.  
+I have experience building **scalable systems, modern web applications, AI-driven solutions, and UI/UX designs** through internships, leadership roles, and projects. 
+I enjoy working on challenging problems at the intersection of **systems, AI, and user-centric design** and I love turning ideas into real products.  
 
-## Connect with Me:
- - [Email](mailto:ankurmajumdar7891@gmail.com)
- - [LinkedIn](https://www.linkedin.com/in/ankur-majumdar-2618b524b/)
+## Connect with Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurmajumdar7891@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-majumdar-2618b524b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankur7891)  
+
 
 ## 🛠️ Languages & Tools
 <p align="left">
